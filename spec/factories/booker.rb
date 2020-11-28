@@ -1,5 +1,5 @@
-FactoryGirl.define do
+FactoryBot.define do
   factory :booker, class: 'Booker' do
-    name 'Booker name'
+    name { "Booker name" }
   end
 end
