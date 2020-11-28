@@ -32,7 +32,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rails'
   gem.add_development_dependency 'sqlite3', '~> 1.4.2'
-  gem.add_development_dependency 'mysql2', '~> 0.3.7'
+  gem.add_development_dependency 'mysql2', '~> 0.5.3'
   gem.add_development_dependency 'pg', '~> 1.2.3'
   gem.add_development_dependency 'rspec-rails', '~> 4'
   gem.add_development_dependency 'rspec', '~> 3.10.0'
