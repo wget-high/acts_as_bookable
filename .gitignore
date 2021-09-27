@@ -14,3 +14,4 @@ tmp
 *.lock
 coverage
 docker-compose.yml
+.idea
